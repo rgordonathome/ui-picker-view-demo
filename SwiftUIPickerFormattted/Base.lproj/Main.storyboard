@@ -36,8 +36,8 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <connections>
-                        <outlet property="myLabel" destination="Qb2-ln-k8E" id="6Ff-5F-8DS"/>
-                        <outlet property="myPicker" destination="7Qe-RQ-3OJ" id="75z-U2-Qci"/>
+                        <outlet property="myLabel" destination="7Qe-RQ-3OJ" id="6pY-oK-BzK"/>
+                        <outlet property="myPicker" destination="Qb2-ln-k8E" id="dyi-pa-IzQ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
